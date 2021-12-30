@@ -1,4 +1,4 @@
-# [START cloudbuild_npm_node]
+ # [START cloudbuild_npm_node]
 steps:
 # Install dependencies
 - name: gcr.io/cloud-builders/npm
