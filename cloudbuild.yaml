@@ -7,5 +7,5 @@ steps:
 # Run custom commands
 - name: gcr.io/cloud-builders/npm
   entrypoint: npm
-  args: ['run', 'build']
+  args: ['run', 'build','start']
 # [END cloudbuild_npm_node]  
